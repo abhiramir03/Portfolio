@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: black;
+    color: white;
+    margin: -16px;
+    position: sticky;
+    top: 0;
+}
+.aa{
+    text-align: center;
+    padding: 10px;
+    font-size: larger;
+}
+.aaa{
+    background-color: black;
+    display: flex;
+    margin: 5px;
+    justify-content: center;
+    padding: 10px;
+    text-shadow: 2px 3px 5px bisque;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.banner{
+    background-image: url('https://www.estylecdn.com/manufcols/enzoani/current/zoom/BM_2022_Pro_Fletcher_Fro_Web.jpg');
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.b{
+    
+    height: 1000px;
+    width: 100%;
+}
+.bb{
+    text-align: center;
+    margin: 50px;
+}
+#h4{
+    margin-bottom: 40px;
+    font-weight: 400;
+}
+#h2{
+    margin-bottom: 50px;
+    font-weight: bolder;
+    font-size: 50px;
+}
+button{
+    margin: px;
+    padding: 15px;
+    background-color: white;
+    cursor: pointer;
+    font-size: 15px;
+    font-style: oblique;
+    box-shadow: 1px 1px 3px black;
+}
+.bbb{
+    display: flex;
+    height: 400px;
+    width: 100%;
+    padding: 10px;
+    justify-content: space-around;
+}
+.img1{
+    height: 450px;
+    width: 300px;
+}
+.img2{
+    height: 450px;
+    width: 300px;
+}
+.img3{
+    height: 450px;
+    width: 300px;
+}
+h5{
+    text-shadow: 1px 1px 1px black;
+    text-decoration: underline;
+    font-size: 15px;
+}
+.c{
+    display: flex;
+    
+    justify-content: center;
+    margin: 20px;
+    padding: 50px;
+}
+.h22{
+    font-size: 150px;
+    margin: 8px;
+}
+.bu{
+    text-shadow: 1px 1px 1px black;
+    box-shadow: 1px 1px 3px black;
+    padding: 20px;
+    margin-left: 50px;
+    margin-top: 35px;
+}
+.d{
+
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    margin: 10px;
+}
+.dd{
+    align-items: center;
+    margin: 20px;
+}
+.h222{
+    font-size: 45px;
+    font-weight: 00;
+    font-style: italic;
+    margin: 100px;
+}
+.h444{
+    font-size: 15px;
+    font-weight: 200;
+    margin: 20px;
+}
+.buu{
+    margin: 3px;
+    background-color: black;
+    color: white;
+    box-shadow: 1px 3px 1px ;
+    border-radius: 3px;
+}
+.img5{
+    height: 500px;
+    width: 500px;
+}
+footer{
+    text-align: center;    
+    margin: 19px;
+    padding: 20px;
+    text-shadow: 1px 2px 5px black;
+    cursor: pointer;
+}
+.h4444{
+    margin: 3px;
+}
+.p1{
+    margin: 9px;
+}

@@ -1,0 +1,36 @@
+.row{
+    background-color: bisque;
+    height: 500px;
+    display: flex;
+
+        /* start center end */
+        align-items: center;
+
+        /* center space between space evenly space around */
+        justify-content: space-evenly;
+
+        /* row row reverse column column reverse */
+        flex-direction: row;
+}
+
+.col{
+    background-color: brown;
+    color: bisque;
+    height: 250px;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    font-style: italic;
+}
+
+.col2{
+    background-color: chartreuse;
+    color: black;
+}
+.col3{
+    background-color: crimson;
+}
+.col4{
+    background-color: fuchsia;
+    color: black;
+}

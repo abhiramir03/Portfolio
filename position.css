@@ -1,0 +1,21 @@
+.row{
+    background-color: darkorange;
+    height: 500px;
+    position: relative;
+}
+.col{
+    background-color: chartreuse;
+    height: 250px;
+    width: 200px;
+    margin: 10px;
+    position: absolute;
+}
+.col1{
+    margin-left: 320px;
+}
+.col2{
+    margin-left: 620px;
+}
+.col3{
+    margin-left: 920px;
+}

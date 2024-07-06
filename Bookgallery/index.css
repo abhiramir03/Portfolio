@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Acme", sans-serif;
+
+}
+header{
+    background-color: bisque;
+    height: 50px;
+
+}
+header h1{
+    text-align: center;
+    padding: 5px;
+    text-shadow: 1px 2px 3px black;
+    color: brown;
+}
+.row{
+    height: 600px;
+    width: 100%;
+    background-color: bisque;
+    display: flex;
+    justify-content: space-around;
+}
+.col{
+    height: 380px;
+    width: 220px;
+    background-color: brown;
+    color: bisque;
+    margin: 10px;
+    padding: 5px;
+    box-shadow: 2px 3px 8px black;
+}
+img{
+    height: 300px;
+    width: 220px;
+}
+img:hover{
+    box-shadow: 5px 5px 10px bisque;
+}
+h2{
+    text-align: center;
+    text-shadow: 1px 2px 3px black;
+}
+h4{
+    text-align: center;
+    text-shadow: 1px 2px 3px black;
+}
+#btn{
+    background-color: bisque;
+    color: brown;
+    border-radius: 10%;
+    cursor: pointer;
+    margin-left: 38%;
+}
+#btn:hover{
+    box-shadow:  1px 2px bisque;
+}
+footer{
+    background-color: brown;
+    color: bisque;
+    height: 250px;
+}
+h3{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+p{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    cursor: pointer;
+    text-decoration: underline white;
+
+}
+.banner{
+    height: 400px;
+    background-image: cover;
+    width: 100%;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_gGX5O23f9kk8ujeRagAPiEltbKAF5D9Vj5fYHsRCBx_Fe3RQSHKnvrd0UU_uRquzDcg&usqp=CAU');
+}

@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+
+.box{
+    text-align: center;
+    background-color: bisque;
+    color: brown;
+    font-style: italic;
+    padding: 10px;
+}
+
+div{
+    height: 420px;
+    width: 200px;
+    background-color: brown;
+    margin: 50px;
+    float: left;
+    border: 2px dotted bisque;
+    padding: 15px;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    margin: -10px;
+}
+
+h3{
+    text-align: center;
+    color: bisque;
+    font-style: italic;
+    text-decoration: underline;
+    
+}
+
+p{
+    color: bisque;
+    font-style: italic;
+    padding-left: 10px;
+    padding-top: 10px;
+}

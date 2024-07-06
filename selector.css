@@ -1,0 +1,46 @@
+/* universal selector */
+*{
+    background-color: plum;
+}
+
+/* tag selector */
+h1{
+    border-color: antiquewhite;
+    color: brown;
+    font-style: italic;
+    text-align: center;
+}
+
+/* class selector */
+.hd1{
+    background-color: whitesmoke;
+    color: brown;
+    font-style: italic;
+    text-align: end;
+}
+
+/* id selector */
+#hd2{
+    color: brown;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+/* grouping selector */
+p,h3,h5{
+    color: purple;
+    font-style: italic;
+}
+
+
+/* pseudoclass selector */
+h1:hover{
+    background-color: whitesmoke;
+    color: rgb(237, 69, 125);
+}
+
+/* pseudoelement selector */
+p::first-line{
+    background-color: whitesmoke;
+    color: rgb(237, 69, 125);
+}
